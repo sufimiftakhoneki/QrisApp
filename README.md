@@ -1,3 +1,4 @@
+
 # QrisApp
 
 Aplikasi ini menampilkan data peserta QRIS, termasuk tabel informasi transaksi, nominal, dan grafik statistik terkait usaha. Fitur utama meliputi:
@@ -8,7 +9,6 @@ Aplikasi ini menampilkan data peserta QRIS, termasuk tabel informasi transaksi, 
 
 ## Cara Menjalankan
 1. Clone repository:
-   ```bash
    git clone https://github.com/username/repository-name.git
    cd repository-name
 2. composer install
